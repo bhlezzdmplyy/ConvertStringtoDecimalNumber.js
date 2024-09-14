@@ -1,0 +1,6 @@
+// Convert a String to a Decimal Number
+let weight = "72.5";
+
+// Method: Using parseFloat()
+let weightParsedFloat = parseFloat(weight);
+console.log("Using parseFloat():", weightParsedFloat); // Output: 72.5
